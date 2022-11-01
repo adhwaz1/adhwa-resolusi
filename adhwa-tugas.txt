@@ -1,2 +1,4 @@
 - memahami github
 - menjalankan github
+- menahami cara kerja git
+- membedakan git dan github
