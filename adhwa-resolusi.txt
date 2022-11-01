@@ -1,6 +1,7 @@
 adhwa resulusi
 - konsisten untuk mengerjakan tugas
-- menambahkan mapel
-* penjas
-* pkk
+- menambah kan mapel
+* b. indonesia
+* b. inggris
+- membuatan hosting
 - membuat forum diskusi
