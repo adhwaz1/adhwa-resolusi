@@ -1,4 +1,6 @@
 adhwa resulusi
 - konsisten untuk mengerjakan tugas
-- membuatan hosting
+- menambahkan mapel
+* penjas
+* pkk
 - membuat forum diskusi
